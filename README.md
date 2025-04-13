@@ -37,7 +37,7 @@ This project is a **responsive and animated landing page** built using **HTML**,
 
 ## 🔗 Video Demonstration
 
-🎥 [Watch the demo video]([https://your-video-link-here.com](https://drive.google.com/file/d/1f3sKRcFG4PrtHrpxJfnURZJdPw8V53bl/view?usp=sharing))
+🎥 [Watch the demo video] ([https://your-video-link-here.com](https://drive.google.com/file/d/1f3sKRcFG4PrtHrpxJfnURZJdPw8V53bl/view?usp=sharing))
 
 ---
 ---
