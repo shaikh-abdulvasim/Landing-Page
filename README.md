@@ -6,10 +6,6 @@
 This project is a **responsive and animated landing page** built using **HTML**, **CSS**, and **JavaScript**. It includes various interactive and visually appealing sections that demonstrate modern web design practices.
 
 ---
-
-## 📁 Folder Structure
-
-
 ---
 
 ## ✨ Features & Sections
@@ -41,20 +37,9 @@ This project is a **responsive and animated landing page** built using **HTML**,
 
 ## 🔗 Video Demonstration
 
-🎥 [Watch the demo video](https://your-video-link-here.com)
-
-> *(Replace with your actual video URL — YouTube, Google Drive, Loom, etc.)*
+🎥 [Watch the demo video]([https://your-video-link-here.com](https://drive.google.com/file/d/1f3sKRcFG4PrtHrpxJfnURZJdPw8V53bl/view?usp=sharing))
 
 ---
-
-## 📜 Assignment Info
-
-**Submitted by:** Shaikh Abdulvasim  
-**College:** SYIT  
-**Internship:** CODTECITSOULUTION  
-**Internship Duration:** August 1 – September 1, 2024  
-**Mentor:** Neela Santhosh Kumar
-
 ---
 
 ## 📎 How to Run the Project
@@ -69,7 +54,7 @@ This project is a **responsive and animated landing page** built using **HTML**,
 ## 📫 Contact
 
 For any queries, feel free to reach out:  
-📧 shaikhabdulvasim@example.com *(replace with your actual email if needed)*
+📧 shaikhvasim1401@gmail.com 
 
 ---
 
